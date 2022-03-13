@@ -1,0 +1,48 @@
+
+WEC-Sim Read Input File ...   
+Elapsed time is 1.790741 seconds.
+
+WEC-Sim Pre-processing ...   
+	Infinite water depth specified in BEM, "waves.waterDepth" set to 200m for vizualisation.
+Elapsed time is 0.161808 seconds.
+
+WEC-Sim Simulation Settings:
+	Start Time                     (sec) = 0
+	End Time                       (sec) = 400
+	Time Step Size                 (sec) = 0.1
+	Ramp Function Time             (sec) = 100
+	Total Number of Time Steps           = 4000 
+
+Wave Environment: 
+	Wave Type                            = Regular Waves (Constant Hydrodynamic Coefficients)
+	Wave Height, H (m)                   = 1.25
+	Wave Period, T (sec)                 = 4
+
+List of Body: Number of Bodies = 2 
+
+	***** Body Number 1, Name: float *****
+	Body CG                          (m) = [0,0,-0.72]
+	Body Mass                       (kg) = 725834 
+	Body Diagonal MOI              (kgm2)= [2.09073E+07,2.13061E+07,3.70855E+07]
+
+	***** Body Number 2, Name: spar *****
+	Body CG                          (m) = [0,0,-21.29]
+	Body Mass                       (kg) = 886691 
+	Body Diagonal MOI              (kgm2)= [9.44196E+07,9.44071E+07,2.85422E+07]
+
+List of PTO(s): Number of PTOs = 1 
+
+	***** PTO Name: PTO1 *****
+	PTO Stiffness           (N/m;Nm/rad) = 0
+	PTO Damping           (Ns/m;Nsm/rad) = 1.2E+06
+
+List of Constraint(s): Number of Constraints = 1 
+
+	***** Constraint Name: Constraint1 *****
+
+
+Simulating the WEC device defined in the SimMechanics model C:\Users\RALI\Documents\GitHub\WEC-Sim\examples\RM3\RM3.slx...   
+Elapsed time is 15.954498 seconds.
+
+Post-processing and saving...   
+Elapsed time is 4.555417 seconds.

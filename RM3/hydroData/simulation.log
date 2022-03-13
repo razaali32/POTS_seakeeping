@@ -1,0 +1,18 @@
+
+WEC-Sim Read Input File ...   
+{'wecSimInputFile' is not found in the current folder or on the MATLAB path, but
+exists in:
+    C:\Users\RALI\Documents\GitHub\WEC-Sim\examples\RM3
+
+<a href = "matlab:matlab.internal.language.commandline.executeCode('cd ''C:\Users\RALI\Documents\GitHub\WEC-Sim\examples\RM3''')">Change the MATLAB current folder</a> or <a href = "matlab:matlab.internal.language.commandline.executeCode('addpath ''C:\Users\RALI\Documents\GitHub\WEC-Sim\examples\RM3''')">add its folder to the MATLAB path</a>.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wecSim', 'C:\Users\RALI\Documents\GitHub\WEC-Sim\source\wecSim.m', 49)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\RALI\Documents\GitHub\WEC-Sim\source\wecSim.m',49,0)">line 49</a>)
+evalc('wecSimInputFile');
+} 
+WecSim
+{Cannot find an exact (case-sensitive) match for 'WecSim'
+
+The closest match is: wecSim in
+C:\Users\RALI\Documents\GitHub\WEC-Sim\source\wecSim.m
+} 
+wecSim
